@@ -1,42 +1,39 @@
 # 🎏 Altyapı
-Altyapıya erişmek için benimle iletişime geçin. Discord profilim için [tıkla](https://discord.com/users/697454127545974895).
+Altyapıya erişmek için benimle iletişime geçin. Discord profilim için [tıkla](https://discord.com/users/793589155367354388).
 
 
 # 👨‍💻 Ayarlama
-Ayarlamaya başlamadan önce **MUTLAKA** [config.json](https://github.com/blobfishdev/owo-selfbot/blob/main/config.json) dosyasını ayarlayın. Yoksa sistem düzgün çalışmaz, bot OwO'dan captcha mesajı geldiğinde sizi uyarmaz ya da mesajlarınıza yanıt vermez!
-
-[.env](https://github.com/blobfishdev/owo-selfbot/blob/main/.env) dosyasında **`Add a Variable`** tuşuna basıp sol tarafa token, sağ tarafa "" işaretleri olmadan yan hesabınızın tokenini yazıp çalıştırabilirsiniz.
-
+**.env** Ye Hesap Tokeninizi Yazmanız Yeterli O Kasmaya Başlayacaktır
 
 # 🧠 Bilgi
-Self-bot siz **`wh`** yazdığınızda **`owo h`**, **`wb`** yazdığınızda **`owo b`**, **`wsell all`** yazdığınızda **`owo sell all`** yazar. Aynı anda 2 hesaptan birden oynamış olursunuz.
+Self-bot siz Oto `wh` , `wb` , `owo` Yazarak Puan Kasar Ve Satıp Paraya Dönüştürür 
 
+Botun Ban Yeme Riski Olduğu İçin De Oto Para Atma Komutu Da Ekledim Belli Aralıklarla Size `100 , 1k , 5k , 10k, 30k` Atmayı Dener Para Varsa Atar Zaten 
+ 
 
 # 💻 Komutlar
-Coin-flip için: **`.cf <miktar>`**
+Günlük ödül için: **`!d`**
   
-Slots için: **`.s <miktar>`**
+Para Göndermek İçin:
+
+ **`!send1k`** 1k Gönderir
   
-Günlük ödül için: **`.daily`**
+**`!send5k`** 5k Gönderir
   
-Para çekmek için: **`.çek <miktar>`**
+ **`!send10k`** 10k Gönderir
   
-100k çekmek için: **`.100k`**
+ **`!send20k`** 20k Gönderir
   
-50k çekmek için: **`.50k`**
+**`!send30k`** 30k Gönderir
   
-10k çekmek için: **`.10k`**
+Paranıza bakmak için: **`!cash`**
   
-1k çekmek için: **`.1k`**
+Gem kullanmak için: **`!use <gem id>`**
   
-Paranıza bakmak için: **`.cash`**
-  
-Gem kullanmak için: **`.gem <gem id>`**
-  
-Envantere bakmak için: **`.inv`**
+Envantere bakmak için: **`!inv`**
+
+Günlük Görevlere Bakmak İçin **`!q`**
+
+Pray Atmak İçin: **`!pray`**
 
 
-# 🎈 Notlar
-**Not:** Birden fazla hesap tokeni bağlayarak daha fazla hesaptan oynayabilirsiniz.
-
-**Not 2:** OwO'dan mesaj geldiğinde otomatik olarak sizi uyarır. (DM'iniz kapalıysa self-bot'u arkadaş ekleyin yoksa mesaj atmaz!)
