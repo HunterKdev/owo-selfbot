@@ -36,4 +36,4 @@ Günlük Görevlere Bakmak İçin **`!q`**
 
 Pray Atmak İçin: **`!pray`**
 
-
+Hayvanlarınıza Bakarsınız **`!z`**
